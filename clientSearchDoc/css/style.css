@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  justify-self: center;
+  margin: 0;
+  padding: 0;
+}
+.loading {
+  display: none;
+}
+
+.load {
+  background-color: #fff;
+}
+.main {
+  padding: 0 10px;
+}
+.card-img-bottom {
+  height: 300px;
+}
+
+fieldset p {
+  color: #eee;
+  font-weight: bold;
+}
+.mainIcon {
+  font-size: 130px;
+  padding: 0 20px;
+  color: #ffc107;
+}

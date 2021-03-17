@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "EdVeri",
+    "slug": "snack-fbf8ab50-3377-4c5a-bce0-5be5282918d9",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#343a40"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#343a40"
+      },
+      "package": "com.ashir2655.snackfbf8ab5033774c5abce05be5282918d9"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
